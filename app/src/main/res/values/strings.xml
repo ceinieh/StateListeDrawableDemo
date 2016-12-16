@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StateListDrawableDemo</string>
+    <string name="button_text">Click me to Change Background</string>
+</resources>
